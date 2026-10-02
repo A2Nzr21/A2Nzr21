@@ -1,4 +1,4 @@
-# Haiii :3, I'm Arad 👋
+# Heyy, I'm Arad 👋
 
 I'm a 19-year-old self-taught developer based in Iran 🇮🇷, focused on full-stack web development and backend engineering. Currently building projects and constantly expanding my technical stack.
 
